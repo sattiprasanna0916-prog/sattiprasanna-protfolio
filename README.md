@@ -16,14 +16,7 @@ A modern, responsive developer portfolio showcasing my projects, technical skill
 
 </p>
 
----
 
-# 🌟 Live Portfolio
-
-> 🚀 **Visit Portfolio**
-
-**🌐 Live Website:**  
-🔗 https://YOUR-LIVE-PORTFOLIO-LINK
 
 ---
 
