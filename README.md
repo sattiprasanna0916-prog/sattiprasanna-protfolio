@@ -81,21 +81,7 @@ It is designed with a clean, responsive UI to provide recruiters and visitors wi
 
 ---
 
-# 📸 Preview
 
-> Add screenshots of your portfolio here after deployment.
-
-Example:
-
-```
-assets/
-├── home.png
-├── projects.png
-├── skills.png
-└── contact.png
-```
-
----
 
 # 📈 Future Improvements
 
