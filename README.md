@@ -1,16 +1,145 @@
-# React + Vite
+<h1 align="center">🌐 Personal Portfolio Website</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+A modern, responsive developer portfolio showcasing my projects, technical skills, certifications, achievements, and professional journey in Artificial Intelligence, Machine Learning, and Full Stack Development.
+</p>
 
-Currently, two official plugins are available:
+<p align="center">
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
-## React Compiler
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-## Expanding the ESLint configuration
+<img src="https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge"/>
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+</p>
+
+---
+
+# 🌟 Live Portfolio
+
+> 🚀 **Visit Portfolio**
+
+**🌐 Live Website:**  
+🔗 https://YOUR-LIVE-PORTFOLIO-LINK
+
+---
+
+# 📖 About
+
+This portfolio serves as my personal website where I showcase my:
+
+- 👨‍💻 Technical Skills
+- 🚀 Featured Projects
+- 🏆 Certifications
+- 📄 Resume
+- 💼 Professional Experience
+- 📬 Contact Information
+
+It is designed with a clean, responsive UI to provide recruiters and visitors with a quick overview of my work.
+
+---
+
+# ✨ Features
+
+- 🎨 Modern Responsive Design
+- 🌙 Professional Dark Theme
+- 📱 Mobile-Friendly Layout
+- 💼 Project Showcase
+- 🏆 Certifications Section
+- 🛠 Skills & Technologies
+- 📄 Resume Download
+- 📬 Contact Section
+- 🔗 Social Media Integration
+
+---
+
+# 🛠 Tech Stack
+
+| Technology | Usage |
+|------------|-------|
+| HTML5 | Structure |
+| CSS3 | Styling |
+| JavaScript | Interactivity |
+| GitHub Pages | Hosting |
+
+---
+
+# 🚀 Featured Projects
+
+- 🎤 SpeakSmart AI Interview Coach
+- 🤖 QuickFix AI
+- 🏥 QueueLess Management System
+- 🛒 Django E-Commerce
+- 📚 DSA Practice Repository
+
+---
+
+# 📜 Certifications
+
+- 🥇 Oracle Certified – Generative AI Professional
+- 🥇 Salesforce Certified – Agentforce Specialist
+- 🥇 SAP Certified Associate – Back-End Developer – ABAP Cloud
+- 🥇 NPTEL – Introduction to Internet of Things
+- 🥇 Infosys Springboard – AI Primer
+- 🥇 Microsoft Learn Certifications
+
+---
+
+# 📸 Preview
+
+> Add screenshots of your portfolio here after deployment.
+
+Example:
+
+```
+assets/
+├── home.png
+├── projects.png
+├── skills.png
+└── contact.png
+```
+
+---
+
+# 📈 Future Improvements
+
+- 🌐 Custom Domain
+- 🌙 Theme Switcher
+- 🤖 AI Chat Assistant
+- 📊 Interactive Project Dashboard
+- ✨ More Animations
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/sattiprasanna0916-prog">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/prasanna-lakshmi-satti-5a21952aa">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://leetcode.com/u/prasanna_satti/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/sattiprasannalakshmi">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# ⭐ Support
+
+If you like this portfolio, consider giving this repository a **⭐ Star**.
+
+Thank you for visiting! 🚀
